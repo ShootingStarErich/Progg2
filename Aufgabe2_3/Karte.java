@@ -1,4 +1,4 @@
-package Aufgabe2_2;
+package Aufgabe2_3;
 
 public record Karte(Farbe farbe, Wert wert) {
 
